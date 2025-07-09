@@ -1,5 +1,19 @@
 <h2 align="left">Hi 👋! My name is Amr and I'm a Software engineer</h2>
+<p>👨‍💻 Senior Software Engineer | Full-Stack Developer
+Passionate about building scalable, high-quality applications with a focus on performance and clean architecture.
 
+💡 Skilled in problem solving and code optimization
+🧠 Mastered JavaScript, and experienced in:
+
+Frontend: React, Tailwind CSS, TypeScript
+
+Backend: Node.js, Django, Firebase
+
+Mobile: Flutter (cross-platform development)
+
+🚀 Always learning, always building.
+
+</p>
 ###
 
 <div align="center">
